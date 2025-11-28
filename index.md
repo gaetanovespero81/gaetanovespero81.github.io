@@ -47,7 +47,7 @@ A complete GitLab CI pipeline demonstrating staged quality checks for Python.
 
 ### 3. Docker Multi-stage Build
 
-**Repository:** [docker-multistage-ci](https://github.com/gaetanovespero81/docker-multistage-ci)  
+**Repository:** [docker-multistage-example](https://github.com/gaetanovespero81/docker-multistage-example)  
 
 A minimal yet realistic example of a **multi-stage Dockerfile** with CI validation.
 
